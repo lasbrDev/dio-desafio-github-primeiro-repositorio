@@ -1,0 +1,3 @@
+Git/Github - desenvolvendo os estudos sobre versionamento de código; utilização do termnal para inclusão na máquina local e commit no servidor;
+
+Linux Experience - aprofundando estudos sobre servidor; principais comandos no terminal; adcionar e remover diretórios, filtros de pesquisas de diretórios e/ou arquivos.
